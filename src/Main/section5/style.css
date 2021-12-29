@@ -1,0 +1,49 @@
+.main_sec5{
+    width:  auto;
+    height: 678px;
+
+    top: 4114px;
+
+    background: #F8EDF0;
+}
+.div_in_div{
+    display: flex;
+}
+.img_simple_div{
+    padding-top:  100px;
+    padding-left: 220px;
+}
+.text_sec5{
+    padding-left: 134px;
+}
+
+.h6_sec5{
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 52px;
+
+
+    color: #000000;
+
+}
+.p_text_sec5{
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.01em;
+     color: #0F0101;
+
+    opacity: 0.7;
+}
+.img_p_g{
+    padding-top: 50px;
+    display: flex;
+}
+.google{
+    padding-top: 5px;
+    width: 200px;
+    height: 77px;
+}
+.app{
+    width: 173px;
+    height: 88px;
+}
